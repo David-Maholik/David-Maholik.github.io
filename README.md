@@ -18,5 +18,13 @@ This code review examines my original Android inventory application, discusses i
 ## Software Design & Engineering Enhancements
 This section highlights the enhancements I made to my Android inventory application to improve its structure, usability, and maintainability. These changes reflect my growth in software design principles and my ability to refactor existing code into a more scalable and user-friendly solution.
 
+### Application Screenshots
+Below are examples of the enhanced user interface and functionality of the application.
+
+#### Inventory Screen
+![Inventory Screen](inventory.jpg)
+
 ### Enhanced Application Code
 [View Enhanced Code on GitHub](https://github.com/eli-maholik/inventory-application-system)
+
+
