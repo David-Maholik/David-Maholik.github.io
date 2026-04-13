@@ -42,7 +42,7 @@ The original implementation contained large methods and repeated logic, particul
 
 From a user interface perspective, I redesigned key elements of the application to create a more modern and intuitive experience. Enhancements included the use of Material Design components such as cards and floating action buttons, improved layout spacing, and clearer visual hierarchy. These changes made the application easier to navigate and more visually appealing.
 
-The following screenshots illustrate the user interface before and after enhancements were implemented.
+The following screenshots illustrate the user interface before and after enhancements were implemented:
 
 <p align="center">
   <img src="oldinventory.jpg" width="250"/>
@@ -56,7 +56,7 @@ A real-time search feature was added to allow users to quickly locate inventory 
 
 These enhancements significantly improved the user experience by reducing the need for manual navigation through large datasets. From a technical standpoint, they reinforced my understanding of how data structures such as lists interact with algorithms to support efficient data manipulation and retrieval.
 
-The following screenshots showscase the implemented search and sorting enhancements.
+The following screenshots showscase the implemented search and sorting enhancements:
 
 <p align="center">
   <img src="search.jpg" width="250"/>
